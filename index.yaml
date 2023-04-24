@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  chart-common:
+  - apiVersion: v2
+    appVersion: appVersion
+    created: "2023-04-24T18:17:25.114407+02:00"
+    digest: 04759fd9b900165a089546b8b7084fa3ff787f12bcf26a620d73420e97ea43ff
+    name: chart-common
+    urls:
+    - chart-common-1.0.0-SNAPSHOT.tgz
+    version: 1.0.0-SNAPSHOT
+generated: "2023-04-24T18:17:25.114065+02:00"

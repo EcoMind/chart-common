@@ -3,10 +3,10 @@ entries:
   chart-common:
   - apiVersion: v2
     appVersion: appVersion
-    created: "2023-04-24T18:17:25.114407+02:00"
-    digest: 04759fd9b900165a089546b8b7084fa3ff787f12bcf26a620d73420e97ea43ff
+    created: "2023-06-12T15:54:02.576498+02:00"
+    digest: c5521569e2a55e0237f41e91c0e4e96bc79d9a22673774b15f7c8006d2301ba3
     name: chart-common
     urls:
-    - chart-common-1.0.0-SNAPSHOT.tgz
-    version: 1.0.0-SNAPSHOT
-generated: "2023-04-24T18:17:25.114065+02:00"
+    - chart-common-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-12T15:54:02.574405+02:00"

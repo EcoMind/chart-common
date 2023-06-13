@@ -1,7 +1,7 @@
 # How to
-- After making any changes, delete index.yaml and tgz archive, then run the following command to regenerate index.yaml and tgz file
+After making any changes, delete index.yaml and tgz archive, then run the following command to regenerate index.yaml and tgz file
 - helm package . && helm repo index .
-- then push everything on github.
+Then push everything on github.
 
 # .tpl files
 In the .tpl files we build the naming of resources, labels and so on.

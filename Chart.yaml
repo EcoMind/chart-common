@@ -1,4 +1,4 @@
 apiVersion: v2
-name: chart-common
-version: 1.0.0
+name: e4t-common
+version: 1.1.0
 appVersion: appVersion
